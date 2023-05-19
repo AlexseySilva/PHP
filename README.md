@@ -25,6 +25,8 @@ Esses exercícios vem da aula do professor <a href="https://github.com/gustavogu
 
 <p><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/maisUmMenosUm.html">Mais um menos um em php, </strong></a><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/MaisUmMenosUm.php">PHP do Mais um menos um</strong></a></p>
 
+<p><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/Aleatorios.php">Gerando aleatorios em PHP</strong></a></p>
+
 
 
   
