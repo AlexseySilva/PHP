@@ -21,6 +21,8 @@ Esses exercícios vem da aula do professor <a href="https://github.com/gustavogu
 
 <p>Retro alimentção do php <strong><a href="https://github.com/AlexseySilva/PHP/blob/main/retroalimentacao.php">Retro alimentação PHP</strong></a></p>
 
+<p>Adição em php<strong><a href="https://github.com/AlexseySilva/PHP/blob/main/adicao.php">adição em PHP</strong></a></p>
+
 
 
   
