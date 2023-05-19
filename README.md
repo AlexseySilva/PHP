@@ -1,5 +1,6 @@
 # PHP
 Esses exercícios vem da aula do professor <a href="https://github.com/gustavoguanabara">gustavoguanabara</a>
+Link do curso referente a essas aulas <strong><a href="https://www.youtube.com/watch?v=TfsO0BGvGn0&list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_">Curso em video</strong></a>
 
 <p><strong>CursoPHP</strong></p>
 <p>Vou separar todos os itens em ( ancor ) por link <strong>( ancor )</strong></p>
