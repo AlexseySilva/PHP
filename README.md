@@ -15,7 +15,7 @@ Esses exercícios vem da aula do professor <a href="https://github.com/gustavogu
 
 <p>Algumas <strong><a href="https://github.com/AlexseySilva/PHP/blob/main/relembrar.php">anotaçoes durante o curso</strong></a></p>
 
-<p>Formulario com nome e sobre nome mais ida e volta com java <strong><a href="https://github.com/AlexseySilva/PHP/blob/main/cad.html">Html do formulario </strong></a><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/cad.php">PHP do formulario</strong></a></p>
+<p>Formulario com nome e sobre nome mais ida e volta com java <strong><a href="https://github.com/AlexseySilva/PHP/blob/main/cad.html">Html do formulario, </strong></a><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/cad.php">PHP do formulario</strong></a></p>
 
   
   
