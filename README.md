@@ -17,6 +17,10 @@ Esses exercícios vem da aula do professor <a href="https://github.com/gustavogu
 
 <p>Formulario com nome e sobre nome mais ida e volta com java <strong><a href="https://github.com/AlexseySilva/PHP/blob/main/cad.html">Html do formulario, </strong></a><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/cad.php">PHP do formulario</strong></a></p>
 
+<p><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/superGlobais.php">Super globais do PHP, </strong></a><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/form.html">Html das superGlobais</strong></a></p>
+
+
+
   
   
   
