@@ -2,7 +2,7 @@
 Esses exercícios vem da aula do professor <a href="https://github.com/gustavoguanabara">gustavoguanabara</a>
 
 <p><strong>CursoPHP</strong></p>
-<p>Vou separar todos os itens em por link<strong> ( ancor )</strong></p>
+<p>Vou separar todos os itens em ( ancor ) por link <strong>( ancor )</strong></p>
 <h1>Use o mesmo Css para todos os itens</h1>
 
 <p>Css para usar em todo codigo <strong><a href="https://github.com/AlexseySilva/PHP/blob/main/style.css">Css para todo codigo</strong></a></p>
