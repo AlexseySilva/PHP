@@ -31,6 +31,8 @@ Esses exercícios vem da aula do professor <a href="https://github.com/gustavogu
 
 <p><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/numerosReaisEFracoes.php">PHP do numeros reais, </strong></a><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/numerosReaisEFracoes.html">HTML dos numeros reias</strong></a></p>
 
+<p><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/RaizERaizCubica.php">Raiz e RaizCubica em PHP</strong></a></p>
+
 
 
   
