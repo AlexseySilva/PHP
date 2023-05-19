@@ -27,6 +27,8 @@ Esses exercícios vem da aula do professor <a href="https://github.com/gustavogu
 
 <p><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/Aleatorios.php">Gerando aleatorios em PHP</strong></a></p>
 
+<p>Conversão mais formatação <strong><a href="https://github.com/AlexseySilva/PHP/blob/main/convercao.html">Html da conversão, </strong></a><strong><a href="https://github.com/AlexseySilva/PHP/blob/main/convercao.php">PHP da conversão</strong></a></p>
+
 
 
   
